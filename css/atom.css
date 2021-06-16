@@ -1,0 +1,37 @@
+body {
+    margin:10 !important;
+    padding:0;
+    color: #fff;
+}
+
+h1 {
+    color: #fff;
+}
+
+.row {
+    margin:10px;
+}
+
+.banner {
+    height:95vh;
+    width:95%;
+    background: url('misc/home_banner_me.jpg');
+    background-position: top;
+    background-size:cover;
+    background-repeat: no-repeat;
+    border-radius: 25px; 
+}
+
+.jumbotron {
+    background: #fff !important;
+    color: #000;
+    padding:10px;
+    border-radius:25px;
+}
+
+.btn {
+    margin-left:10px;
+    margin-right:10px;
+    margin-bottom:10px;
+    margin-top:10px;
+}
