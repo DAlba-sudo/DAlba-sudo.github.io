@@ -1,0 +1,15 @@
+body{
+    margin:10px;
+}
+
+.research-itm {
+    background-color: #fff;
+    margin-top:10px;
+    padding:10px;
+    color: #000;
+    border-radius: 15px;
+}
+
+.row div {
+    padding:10px;
+}
