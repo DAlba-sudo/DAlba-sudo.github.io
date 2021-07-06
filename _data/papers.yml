@@ -1,0 +1,12 @@
+- title: Theoretically modelling a projectile’s force of impact with respect to distance.
+  date: 2/28/2021
+  link: ./assets/papers/physics_hl_ia.pdf
+  abstract: It is evident that there is a discrepancy between the theoretical and experimental calculations for Impact Force. Interestingly, the discrepancy between the two values is a constan...
+- title: To what extent can Machine Learning decrease the expensive nature of Genetic Algorithms when solving atypical optimization problems?
+  date: 9/6/2020
+  link: ./assets/papers/expensive_java.pdf
+  abstract: Analyzing the results of our experiment it would appear that GA’s can be used to find optimums given their environment. The GA as it was used in this paper, succeeded in converging...
+- title: A statistical comparison of the Vienna Game Opening using rate-of-change, integral, and static evaluations.
+  date: 2/28/21
+  link: ./assets/papers/math_aa_sl_ia.pdf
+  abstract: Evaluating these opening variations using derivative and integral techniques provide an interesting view as to the efficacy of specific lines. For example, the Vienna Gambit (4. e5...
