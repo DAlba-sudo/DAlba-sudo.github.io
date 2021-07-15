@@ -1,0 +1,25 @@
+---
+layout: default
+title: Diego - Projects
+permalink: projects
+css: projects.css
+---
+
+<div class="container-fluid">
+
+    <div class="col">
+        <div class="row pd-10">
+            <h2>View some of my projects!</h2>
+        </div>
+        {% for itm in site.data.projects %}
+        <div class="row w-100">
+            <div class="card pd-10 mg-10">
+                <h1 class="title">{{ itm.name }}</h1>
+                <p class="lead">{{ itm.desc }}</p>
+                <a href="{{ itm.link }}" class="btn btn-dark">View</a>
+            </div>
+        </div>
+    {% endfor %}
+    </div>
+
+</div>
